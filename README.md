@@ -1,0 +1,2 @@
+# cors
+Created with CodeSandbox
